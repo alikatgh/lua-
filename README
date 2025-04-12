@@ -1,6 +1,10 @@
 
 This is Lua 5.4.7, released on 13 Jun 2024.
 
+We are working to make it Lua++. 
+
+Lua++ is how C++ for C.
+
 For installation instructions, license details, and
 further information about Lua, see doc/readme.html.
 
